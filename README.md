@@ -7,6 +7,7 @@ Co-advised by Arianne Eason and Mahesh Srinivasan in the UC DREAMS Lab and LCD L
 
 <center><img src="IMG_5395.jpg" width="300"></center>
 
+
 Click [here](KeatingVictoriaCV_6.11.26.pdf) for my CV
 
 Email: victoria_keating@berkeley.edu
