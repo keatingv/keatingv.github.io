@@ -1,2 +1,2 @@
-# Victoria Keating
+# Victoria Keating | PhD Candidate
 Personal Website
