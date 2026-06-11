@@ -5,7 +5,7 @@ Interested in bias development, culture, socialization, and intergroup cognition
 
 Co-advised by Arianne Eason and Mahesh Srinivasan in the UC DREAMS Lab and LCD Lab 
 
-<img src="IMG_5395.jpg" width="300">
+<img src="IMG_5395.jpg" width="300"class="center">
 
 Click [here](KeatingVictoriaCV_6.11.26.pdf) for my CV
 
